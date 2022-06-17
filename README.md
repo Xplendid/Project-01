@@ -1,6 +1,6 @@
 # PATCH NOTE 1.0.1
 
-- add new feature : Advanced Ai (now Ai can pathfind more easyly)
+- add new feature : Advanced Ai (now Ai can pathfind more easily)
 - add new feature : Added Bow (added new ranged weapon)
 
 # fixed Bug
