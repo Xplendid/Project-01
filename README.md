@@ -6,3 +6,4 @@
 # fixed Bug
 
 - fix some minor issus where player can get double coin when Bomber explode on chest
+- fix issus where player get killed when pricked by cactus
